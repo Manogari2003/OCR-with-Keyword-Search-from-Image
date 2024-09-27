@@ -1,0 +1,9 @@
+gradio
+byaldi
+qwen-vl-utils
+numpy
+Pillow
+Requests
+torch
+torchvision
+git+https://github.com/huggingface/transformers.git
